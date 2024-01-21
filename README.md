@@ -19,7 +19,7 @@ Clone the Spring Boot project from the provided GitHub link:
 
 bash
 Copy code
-git clone <your-github-repo-url>
+git clone <(https://github.com/shishirsaurav/gs-rest-service/edit/main/)>
 cd spring-boot-cucumber-testing
 Step 2: Explore the Project
 Explore the project's structure and functionalities to gain a better understanding.
